@@ -1,0 +1,19 @@
+{
+  "name": "node_example2",
+  "version": "1.0.0",
+  "description": "test publish to npm repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbakhmetiev/node_example.git"
+  },
+  "author": "MIka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbakhmetiev/node_example/issues"
+  },
+  "homepage": "https://github.com/mbakhmetiev/node_example#readme"
+}
