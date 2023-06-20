@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/mbakhmetiev/node_example/issues"
   },
-  "homepage": "https://github.com/mbakhmetiev/node_example#readme"
+  "homepage": "https://github.com/mbakhmetiev/node_example#readme",
+  "dependencies": {
+    "jquery": "^3.7.0",
+    "package.json": "^2.0.1"
+  }
 }
