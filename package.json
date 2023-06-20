@@ -1,6 +1,6 @@
 {
   "name": "node_example2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test publish to npm repo",
   "main": "index.js",
   "scripts": {
